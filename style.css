@@ -1367,11 +1367,16 @@ footer{
         font-size: 22px;
 	    font-weight: 600;
     }
+    .home p{
+        margin-bottom: -1rem;
+    }
     .btn{
         width: 130px;
-        height: 30px;
-        border: 1px solid #8511f8;  
+        height: 40px;
+        border: 1px solid #8511f8; 
+        margin-bottom: -1rem; 
     }
+
     
 }
 
